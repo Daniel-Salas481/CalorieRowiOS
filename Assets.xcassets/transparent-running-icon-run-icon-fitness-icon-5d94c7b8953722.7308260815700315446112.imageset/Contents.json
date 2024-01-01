@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "transparent-running-icon-run-icon-fitness-icon-5d94c7b8953722.7308260815700315446112.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
